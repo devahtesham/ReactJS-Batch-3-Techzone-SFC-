@@ -1,0 +1,14 @@
+.shopping-cart{
+    position: relative;
+}
+.shopping-cart span{
+    background-color: #ff5100;
+    padding: 1px 7px 1px 5px;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    position: absolute;
+    top: -13px;
+    right: -29px;
+}

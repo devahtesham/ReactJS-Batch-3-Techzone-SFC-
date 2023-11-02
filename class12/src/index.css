@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+a.active{
+  color: #ff5100 !important;
+  font-weight: 700;
+  border-bottom: 1px solid #ff5100;
+}
